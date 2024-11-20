@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pabel1" alt="pabel1" /></a> </p>
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on Ayykori Digital Ltd [Ayykori](ayykori.net)
+<!-- - 🔭 I’m currently working on Ayykori Digital Ltd [Ayykori](ayykori.net) -->
 
-- 🌱 I’m currently learning **Nest JS, Microservice, AWS ,Docker, CICD ,GraphQl**
+- 🌱 I’m currently learning **Nest JS ,GraphQl**
 
-- 💬 Ask me about **React JS, Next JS,Redux, Node JS ,Express JS, MongoDB, PostgreSQL ,Prisma ORM, Socket.io, Redis**
+- 💬 Ask me about **React JS, Next JS,Redux, Node JS ,Express JS, MongoDB, PostgreSQL ,Prisma ORM, Socket.io, Redis**, Microservice, AWS , Docker, CICD
 
 - 📫 How to reach me **pabelahamed39@gmail.com**
 
